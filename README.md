@@ -1,5 +1,6 @@
-# vue-cordova-webpack
+# **Caution : Before working...**  
 
+# vue-cordova-webpack-typescript
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
 ## Documentation
